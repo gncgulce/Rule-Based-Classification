@@ -16,4 +16,6 @@ The persona.csv dataset contains information on the prices of products sold by a
 * **Sex:** Gender of the customer
 * **Country:** Country of the customer
 * **Age:** Age of the customer
+
+**Project Purpose and Outcome:**
 In this case, we analyze our dataset and create rule-based segments for our customers. These segments will guide us in making decisions or  steps  to them.
