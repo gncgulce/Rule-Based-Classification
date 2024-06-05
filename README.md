@@ -1,4 +1,4 @@
-# Rule-Based-Classification
+ Rule-Based-Classification
 #![Açıklama](Rule-Based.png)
 **Business Problem:**
 A gaming company wants to create new customer profiles (personas) based on certain characteristics of its customers and form segments according to these new customer profiles. The company aims to predict how much revenue new customers in these segments could potentially bring to the company on average.
